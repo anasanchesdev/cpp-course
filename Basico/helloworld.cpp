@@ -2,7 +2,7 @@
 
 int main(){
     /*
-    std: Standard
+    std: Standard -> contém funções padrão
     C: Character
     Out: Output
     <<: Indica que a informação é saída
